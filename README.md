@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
 
+Se realiza conexion con API TMDB, Consta de 4 modulos, siendo dos de estos la barra de navegación y pie de pagina, el siguiente hace referencia a peliculas en la cual se listan las mismas y el componente peliculas detalle, que muestra los detalles de cada pelicula.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
